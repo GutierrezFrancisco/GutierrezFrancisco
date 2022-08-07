@@ -6,7 +6,7 @@ Junior Web Developer | QA Tester
 
 Hi there I am a new Junior Web Developer and QA Tester who previously was working in the human resource sector, was nominated with an award on the united nation representing my college at UCAB. Now looking for a new are in tech.
 
-* 🌍  I'm based in Argentin
+* 🌍  I'm based in Argentina
 * ✉️  You can contact me at [gutierrez.franciscoarg@gmail.com](mailto:gutierrez.franciscoarg@gmail.com )
 * 🧠  I'm learning ReactJS, Angular and Python
 * 🤝  I'm open to collaborating on Research Development, Frontend Topics
