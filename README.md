@@ -1,7 +1,7 @@
 Hi 👋 My name is Francisco Gutierrez
 ====================================
 
-Junior Web Developer | QA Tester
+Senior Web Developer | QA Tester
 --------------------------------
 
 Hi there I am a new Junior Web Developer and QA Tester who previously was working in the human resource sector, was nominated with an award on the united nation representing my college at UCAB. Now looking for a new are in tech.
